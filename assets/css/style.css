@@ -15,17 +15,24 @@
 
 
 /* Global Variables */
-:root{
-    --font-family: 'Rubik', sans-serif;
-    --primary-color: #415de6;
-    --secondary-color: #e64157;
-    --tertiary-color: #12c2e9;
-    --primary-gradient-color: linear-gradient(90deg,#e64157,#415de6);
-    --secondary-gradient-color: linear-gradient(to right, #12c2e9, #f64f59, #f64f59);
-    --underline-gradient: linear-gradient(to left, #12c2e9, #c471ed, #f64f59);
-    --vertical-gradient: linear-gradient(to top, #12c2e9, #c471ed, #f64f59);
-    --transition-default: all .4s ease;
-}   
+:root {
+    --font-family: 'Poppins', sans-serif;
+  
+    /* Couleurs principales */
+    --primary-color: #7a1fa2;        
+    --secondary-color: #ff6b6b;      
+    --tertiary-color: #20c997;      
+  
+    /* Dégradés harmonieux et expressifs */
+    --primary-gradient-color: linear-gradient(90deg, #ff6b6b, #7a1fa2);
+    --secondary-gradient-color: linear-gradient(90deg, #20c997, #7a1fa2, #ff6b6b);
+    --underline-gradient: linear-gradient(to right, #ff6b6b, #c471ed, #20c997);
+    --vertical-gradient: linear-gradient(to top, #ff6b6b, #c471ed, #20c997);
+  
+    /* Effet de transition fluide */
+    --transition-default: all 0.4s ease;
+  }
+  
 
 body{
     font-family: var(--font-family);
@@ -133,7 +140,7 @@ a:hover{
 
 .logo-name{
     font-family: 'Agustina', 'Rubik', sans-serif;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 
 .primary-bg-btn{
@@ -415,7 +422,7 @@ a:hover{
     background-size: contain;
     background-position: bottom;
     background-repeat: no-repeat;
-    background-image: url(/assets/images/portrait.webp);
+    background-image: url(/assets/images/anna.png);
 }
 
 @media (max-width: 576px) {
@@ -443,7 +450,7 @@ a:hover{
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        background-image: url(/assets/images/portrait.webp);
+        background-image: url(/assets/images/anna.png);
     }
 
     .hero-content{
