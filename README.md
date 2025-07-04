@@ -1,46 +1,58 @@
-# Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
+# Portfolio Développeuse Web – Anna Marone
 
-> See live demo: [https://vijay-singh.com](https://vijay-singh.com)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> 🎯 Démo en ligne : [https://annamarone.dev](https://annamarone.dev) *(exemple d’URL — à adapter)*
+> ✨ Vous pouvez réutiliser ce code, un **crédit est apprécié** et un petit **⭐️ sur le repo** me ferait plaisir !
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Aperçu Portfolio](https://github.com/ANNAMARONE/monportfolio/blob/main/assets/images/banner.webp)
 
+Bonjour, je m'appelle **Anna Marone**, développeuse web full-stack sénégalaise. Voici le code source de mon portfolio, conçu avec **HTML, CSS, Bootstrap et JavaScript**. Ce site met en avant mes projets, compétences et outils préférés.
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+---
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@vijay-singh.com. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
+## ✨ Fonctionnalités principales
 
-## **Portfolio Features:**
+- 🌗 **Mode clair/sombre** : Changez de thème, votre préférence est mémorisée.
+- ⚙️ **Code propre et bien structuré** : Facile à modifier et à comprendre.
+- 💻 **Vrais projets présentés** : Applications concrètes avec impact social.
+- 🚀 **Optimisé SEO & performance** : Métadonnées, chargement différé, animations fluides.
+- 🗣️ **Témoignages** : Avis authentiques sur mon travail.
+- 📱 **Responsive** : Adapté à tous les écrans.
 
-* **Light/Dark Modes Supported 🌙☀️:**  Switch effortlessly between light and dark themes. Your preference is saved, even after you close the page!
-* **Clean Code 👍:** Well-formatted and easy to follow. 
-* **Real-World Showcase 💻:** Check out my actual projects!
-* **Optimized for Speed 🚀:**  SEO metadata, prefetching, and deferring for a snappy experience.
-* **Testimonials ✅:** Genuine reviews from friends and developers.
-* **SEO Optimed** Just Replace The Content at <head>
-* **And More!** See the details below.
-  
-## **Technologies Used:**
+---
 
-* HTML, CSS, Bootstrap, JavaScript
-* Owl Carousel Library (for Testimonials)
-* jQuery (to support Owl Carousel)
-* AOS Library (for cool fade effects)
-* Fonts: Augustina, Rubik, Dancing Script
-* Bootstrap Icons
+## 🔧 Technologies utilisées
 
-## **Want to see it live? 👀**
+- HTML, CSS, Bootstrap, JavaScript
+- Owl Carousel *(témoignages)*
+- jQuery *(pour Owl)*
+- AOS.js *(animations au scroll)*
+- Google Fonts : Rubik, Dancing Script, etc.
+- Bootstrap Icons
 
-* Visit: [https://vijay-singh.com/](https://vijay-singh.com/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+---
 
-## **Why This Web Developer Portfolio Stands Out**
+## 🌐 Voir en ligne
 
-* **User Experience Focus:**  The dual theme and speed optimizations show I care about delivering a great experience.
-* **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
-* **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
+- **Démo live** : [https://annamarone.dev](https://annamarone.dev)
+- **Code source GitHub** : [https://github.com/ANNAMARONE/monportfolio](https://github.com/ANNAMARONE/monportfolio)
 
-## **Contact**
+---
 
-Feel free to connect with me or leave feedback. I'm always learning and improving! 
+## 💡 Pourquoi ce portfolio se démarque ?
 
-> ~ [hi@vijay-singh.com](mailto:hi@vijay-singh.com)
+- **Expérience utilisateur soignée**
+- **Design moderne et élégant**
+- **Réels projets avec dimension sociale (GIE, femmes, numérique au Sénégal)**
+- **Accessibilité, performance, clarté du code**
+
+---
+
+## 📬 Contact
+
+Intéressé·e pour collaborer ou me laisser un retour ? Je suis ouverte à toute opportunité ou discussion autour du développement web !
+
+> ✉️ [annamarone72@email.com](mailto:anna.marone@email.com)
+
+---
+
+> Fièrement conçu avec ❤️ par **Anna Marone**
